@@ -1,1 +1,3 @@
 # DERIVADOS FINANCIEROS 
+library(quantmod)
+
